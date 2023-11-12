@@ -1,0 +1,8 @@
+#model
+/Model/
+
+#env
+*.venv
+
+#upload file
+/uploads/
